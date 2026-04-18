@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">电视浏览器</string>
+    <string name="app_name">小亚爱看电视</string>
     <string-array name="text_size">
         <item>较小</item>
         <item>适中</item>
